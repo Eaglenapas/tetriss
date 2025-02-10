@@ -1,1 +1,1 @@
-# tetriss
+# tetriss.github.io
